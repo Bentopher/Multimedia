@@ -1,0 +1,8 @@
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\bin\x64\Debug\Nationalratswahlen.exe.config
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\bin\x64\Debug\Nationalratswahlen.exe
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\bin\x64\Debug\Nationalratswahlen.pdb
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\obj\x64\Debug\Nationalratswahlen.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\obj\x64\Debug\Nationalratswahlen.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\obj\x64\Debug\Nationalratswahlen.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\obj\x64\Debug\Nationalratswahlen.exe
+C:\Users\chris\source\repos\Nationalratswahlen\Nationalratswahlen\obj\x64\Debug\Nationalratswahlen.pdb

@@ -8,11 +8,12 @@ namespace Nationalratswahlen
 {
     public class Partei
     {
+
         // Constructor taking name and number of votes.
         public Partei(string name, int votes) { }
 
         // Read-Only property Name.
-        public string Name { get;}
+        public string Name { get; }
 
         // Read-Only property Number of votes.
         public int Votes { get; }
