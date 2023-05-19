@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nationalratswahlen", "Nationalratswahlen\Nationalratswahlen.csproj", "{CC1FBC5F-2051-4973-A62F-00982F019FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNationalratswahlen", "TestNationalratswahlen\TestNationalratswahlen.csproj", "{58701E4C-D61E-48BF-AAD0-46944BC2936B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1FBC5F-2051-4973-A62F-00982F019FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1FBC5F-2051-4973-A62F-00982F019FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1FBC5F-2051-4973-A62F-00982F019FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1FBC5F-2051-4973-A62F-00982F019FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58701E4C-D61E-48BF-AAD0-46944BC2936B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58701E4C-D61E-48BF-AAD0-46944BC2936B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58701E4C-D61E-48BF-AAD0-46944BC2936B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58701E4C-D61E-48BF-AAD0-46944BC2936B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDAF4D72-3157-4A76-87DF-F74701F3D3EC}
+	EndGlobalSection
+EndGlobal
